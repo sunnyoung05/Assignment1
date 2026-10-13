@@ -55,6 +55,9 @@ ggsave(
 )
 ```
 
+## (d)
+
+https://github.com/sunnyoung05/Assignment1
 
 # Problem 2
 
